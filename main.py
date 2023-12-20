@@ -27,6 +27,7 @@ while True:
             else:
                 colorR = 255, 0, 255
         if len(hands)==2:
+            # salam bar to
             hand2 = hands[1]
             lmList2 = hand2["lmList"]
             bbox2 = hand2["bbox"]
